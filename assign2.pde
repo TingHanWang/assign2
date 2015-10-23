@@ -1,4 +1,3 @@
-//You should implement your assign2 here.
 //Make a Game//
 boolean draw = true;
 PImage startImg1;
