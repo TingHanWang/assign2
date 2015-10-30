@@ -1,5 +1,4 @@
 //Make a Game//
-boolean draw = true;
 PImage startImg1;
 PImage startImg2;
 PImage shipImg1;
